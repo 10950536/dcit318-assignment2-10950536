@@ -28,7 +28,7 @@ namespace NkrumHub
             }
         }
 
-        /* public abstract class Shape
+         public abstract class Shape
         {
             public void GetArea() { }
         }
@@ -54,7 +54,7 @@ namespace NkrumHub
 
          
         }
-
+        /*
         public interface IMovable
         {
             public void Move() { }
@@ -86,7 +86,7 @@ namespace NkrumHub
             Cat c1 = new Cat();
             c1.MakeSound();
 
-            /* Circle circle1 = new Circle();
+             Circle circle1 = new Circle();
             Circle circle2 = new Circle();
 
             circle1.radius = 12;
@@ -100,14 +100,15 @@ namespace NkrumHub
 
             Console.WriteLine(rectangle1.GetArea());
             Console.WriteLine(rectangle2.GetArea());
-
+            /*
+             
             Car car1 = new Car();
             Car car2 = new Car();
 
             Console.WriteLine(car1.Move());
             Console.WriteLine(car2.Move());
-            
 
+            
             Bicycle bike1 = new Bicycle();
             Bicycle bike2 = new Bicycle();
 

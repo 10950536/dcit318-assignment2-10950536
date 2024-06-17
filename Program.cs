@@ -54,7 +54,7 @@ namespace NkrumHub
 
          
         }
-        /*
+        
         public interface IMovable
         {
             public void Move() { }
@@ -74,7 +74,7 @@ namespace NkrumHub
                 return "Bicycle is moving";
             }
         }
-        */
+        
         public static void Main(string[] args)
         {
             Animal a1 = new Animal();
@@ -100,7 +100,7 @@ namespace NkrumHub
 
             Console.WriteLine(rectangle1.GetArea());
             Console.WriteLine(rectangle2.GetArea());
-            /*
+            
              
             Car car1 = new Car();
             Car car2 = new Car();
@@ -115,7 +115,7 @@ namespace NkrumHub
             Console.WriteLine(bike1.Move());
             Console.WriteLine(bike2.Move());
 
-            */
+            
         }
     }
 }
